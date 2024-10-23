@@ -1,0 +1,6 @@
+version: '3'
+services:
+  first-express-app:
+    image: pankil1812/first-express-app
+    ports:
+      - "5000:5000"
