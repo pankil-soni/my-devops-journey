@@ -1,0 +1,23 @@
+# List all running containers
+docker ps
+
+# List all Docker images on your system
+docker image ls
+
+# Pull an image from Docker Hub
+docker pull [image-name]
+
+# Remove containers or images
+docker remove [container-id/name]
+
+# Run a container
+docker run [options] [image-name]
+
+
+Hands-on Practice: Running Nginx
+
+docker run --name my-nginx -p 8080:80 -d nginx
+
+# Connecting to Docker Playground
+
+https://stackoverflow.com/a/79113715/24263125 

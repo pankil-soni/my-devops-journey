@@ -1,0 +1,7 @@
+docker container prune
+
+docker build --network=host -t pankil1812/first-flask-app:0.0.2 .
+
+docker run -d -p 3000:3000 --name first-flask-app pankil1812/first-flask-app:0.0.2
+
+docker logs first-flask-app
