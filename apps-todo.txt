@@ -1,0 +1,24 @@
+1. MongoDB + Express (Node.js)
+2. MySQL/PostgreSQL + Express (Node.js)
+
+3. MongoDB + Flask (Python)
+4. MySQL/PostgreSQL + Flask (Python)
+
+5. MongoDB + Spring Boot (Java)
+6. MySQL/PostgreSQL + Spring Boot (Java)
+
+7. Redis + Express (Node.js)
+8. Redis + Flask (Python)
+
+9. Nginx + Express (Node.js)
+10. Nginx + Flask (Python)
+
+11. Nginx + Spring Boot (Java)
+12. MongoDB + Django (Python)
+
+13. PostgreSQL + Django (Python)
+14. Kafka + Express (Node.js)
+
+15. Kafka + Spring Boot (Java)
+16. Elasticsearch + Express (Node.js)
+17. Elasticsearch + Spring Boot (Java)
