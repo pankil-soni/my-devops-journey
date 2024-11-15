@@ -1,10 +1,10 @@
 const express = require("express");
-const User = require("./models/user");
+const User = require("./models/User");
 const connectDb = require("./db");
 
 const app = express();
 const port = process.env.PORT || 5000;
-const mongoUri = "mongodb://mongo:27017/mydatabase";
+const mongoUri = "mongodb://localhost:27017/mydatabase";
 
 // Middleware to parse JSON
 app.use(express.json());
